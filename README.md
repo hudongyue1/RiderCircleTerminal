@@ -17,4 +17,4 @@
 
 ## 数据库
 
-<img src="图片链接" alt="图片alt" title="图片title">
+<img src="./databaseER.png" title="数据库关系">
